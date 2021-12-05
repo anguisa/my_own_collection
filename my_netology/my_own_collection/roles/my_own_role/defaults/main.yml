@@ -1,0 +1,4 @@
+---
+# defaults file for my_own_role
+default_path: "tmp/1.txt"
+dafault_content: "hello world"
